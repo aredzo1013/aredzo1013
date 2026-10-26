@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Anthony!
 
-<!--
-**aredzo1013/aredzo1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cybersecurity student at the University at Albany, pursuing a B.S. in Cybersecurity with an expected graduation date of May 2027.
 
-Here are some ideas to get you started:
+## About Me
+- Interested in network security, security operations, and threat detection
+- CompTIA ITF+ certified
+- Currently studying for CompTIA Network+ and Security+
+- Developing hands-on experience through cybersecurity labs and projects
+- Seeking cybersecurity and IT internship opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- **Operating Systems:** Windows, Linux (Ubuntu)
+- **Security Tools:** Wireshark, Nmap, VirtualBox
+- **Networking:** TCP/IP, DNS, DHCP, VPNs, VLANs
+- **Security Concepts:** Network monitoring, access control, IDS/IPS, risk assessment
+
+## Projects
+I'm building a portfolio of hands-on cybersecurity projects, including network traffic analysis, network scanning, and Linux system administration.
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/anthony-redzovic/)
